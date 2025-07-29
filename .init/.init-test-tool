@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/mobile-virus-scanner-and-security-advisor-137037/virus_detection_mobile_app"
+}
